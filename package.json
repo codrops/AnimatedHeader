@@ -1,0 +1,19 @@
+{
+  "name": "animated-header",
+  "version": "0.0.1",
+  "description": "A fixed header that will animate its size on scroll. The inner elements will also adjust their size with a transition.",
+  "main": "js/cbpAnimatedHeader.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codrops/AnimatedHeader.git"
+  },
+  "author": "botelho <http://tympanus.net/codrops>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codrops/AnimatedHeader/issues"
+  },
+  "homepage": "https://github.com/codrops/AnimatedHeader",
+  "dependencies": {
+    "classie": "^1.0.0"
+  }
+}
